@@ -1,5 +1,5 @@
 export const SITE = {
-  title: "Create T3 App",
+  title: "Ridhima's trial T3 App",
   description: "The best way to start a full-stack, typesafe Next.js app.",
   defaultLanguage: "en_US",
 };
